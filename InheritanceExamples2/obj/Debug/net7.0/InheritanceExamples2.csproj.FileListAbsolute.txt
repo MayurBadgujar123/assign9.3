@@ -1,0 +1,15 @@
+D:\.NET\Day2\InheritanceExamples2\bin\Debug\net7.0\InheritanceExamples2.exe
+D:\.NET\Day2\InheritanceExamples2\bin\Debug\net7.0\InheritanceExamples2.deps.json
+D:\.NET\Day2\InheritanceExamples2\bin\Debug\net7.0\InheritanceExamples2.runtimeconfig.json
+D:\.NET\Day2\InheritanceExamples2\bin\Debug\net7.0\InheritanceExamples2.dll
+D:\.NET\Day2\InheritanceExamples2\bin\Debug\net7.0\InheritanceExamples2.pdb
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\InheritanceExamples2.csproj.AssemblyReference.cache
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\InheritanceExamples2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\InheritanceExamples2.AssemblyInfoInputs.cache
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\InheritanceExamples2.AssemblyInfo.cs
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\InheritanceExamples2.csproj.CoreCompileInputs.cache
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\InheritanceExamples2.dll
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\refint\InheritanceExamples2.dll
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\InheritanceExamples2.pdb
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\InheritanceExamples2.genruntimeconfig.cache
+D:\.NET\Day2\InheritanceExamples2\obj\Debug\net7.0\ref\InheritanceExamples2.dll

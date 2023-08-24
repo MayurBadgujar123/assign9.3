@@ -1,0 +1,15 @@
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\bin\Debug\net7.0\InterfacesWithDefaultMethods.exe
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\bin\Debug\net7.0\InterfacesWithDefaultMethods.deps.json
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\bin\Debug\net7.0\InterfacesWithDefaultMethods.runtimeconfig.json
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\bin\Debug\net7.0\InterfacesWithDefaultMethods.dll
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\bin\Debug\net7.0\InterfacesWithDefaultMethods.pdb
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\InterfacesWithDefaultMethods.csproj.AssemblyReference.cache
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\InterfacesWithDefaultMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\InterfacesWithDefaultMethods.AssemblyInfoInputs.cache
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\InterfacesWithDefaultMethods.AssemblyInfo.cs
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\InterfacesWithDefaultMethods.csproj.CoreCompileInputs.cache
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\InterfacesWithDefaultMethods.dll
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\refint\InterfacesWithDefaultMethods.dll
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\InterfacesWithDefaultMethods.pdb
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\InterfacesWithDefaultMethods.genruntimeconfig.cache
+D:\.NET\Day2\InterfacesWithDefaultMethods\InterfacesWithDefaultMethods\obj\Debug\net7.0\ref\InterfacesWithDefaultMethods.dll
